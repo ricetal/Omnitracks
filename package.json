@@ -1,0 +1,20 @@
+{
+  "name": "Ricardo Valdez",
+  "version": "1.0.0",
+  "description": "Omnitracks Javascript CLI using npm ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: Hay un error\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricetal/Omnitracks/weather.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricetal/Omnitracks"
+  },
+  "homepage": "https://github.com/ricetal/Omnitracks#readme",
+  "engines": {"node": "6.11.1"}
+}
